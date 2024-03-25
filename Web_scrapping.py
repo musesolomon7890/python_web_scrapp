@@ -4,8 +4,7 @@ from bs4 import BeautifulSoup
 import telebot
 import time
 
-BOT_TOKEN = '6316366205:AAEGZ4hBE3r7-zFvq-6AH0P1DCe-hJKPWd0'
-CHAT_ID = '6443836922'
+
 
 URL = 'https://borkena.com/'
 
