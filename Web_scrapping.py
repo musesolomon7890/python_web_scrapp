@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 import telebot
 import time
 
-
-
+BOT_TOKEN = ''
+CHAT_ID = ''
 URL = 'https://borkena.com/'
 
 bot = telebot.TeleBot(BOT_TOKEN)
